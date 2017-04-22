@@ -1,4 +1,7 @@
-# test coverage for  [express-flash (v0.0.2)](https://github.com/RGBboy/express-flash)  [![npm package](https://img.shields.io/npm/v/npmtest-express-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-flash.svg)](https://travis-ci.org/npmtest/node-npmtest-express-flash)
+# npmtest-express-flash
+
+#### basic test coverage for  [express-flash (v0.0.2)](https://github.com/RGBboy/express-flash)  [![npm package](https://img.shields.io/npm/v/npmtest-express-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-flash.svg)](https://travis-ci.org/npmtest/node-npmtest-express-flash)
+
 #### Flash Messages for your Express Application
 
 [![NPM](https://nodei.co/npm/express-flash.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-flash)
@@ -81,7 +84,8 @@
         "test": "make test",
         "unit": "make unit"
     },
-    "version": "0.0.2"
+    "version": "0.0.2",
+    "bin": {}
 }
 ```
 
